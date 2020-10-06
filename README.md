@@ -1,4 +1,4 @@
-## A4: Machine Learning
+## Image Orientation Classification
 
 ### Neural Networks
 1. Problem Formulation
